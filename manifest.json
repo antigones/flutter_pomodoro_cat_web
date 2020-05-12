@@ -1,6 +1,6 @@
 {
-    "name": "PomodoroCat",
-    "short_name": "PomodoroCat",
+    "name": "flutter_pomodoro_cat",
+    "short_name": "flutter_pomodoro_cat",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
