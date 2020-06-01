@@ -11,14 +11,14 @@ const RESOURCES = {
 "assets/assets/Pacifico-Regular.ttf": "9b94499ccea3bd82b24cb210733c4b5e",
 "assets/FontManifest.json": "a588f11588c15e5d69c762ee7671a585",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "db46e85de418d4f61482d677755ce9ca",
+"assets/LICENSE": "948fc05cfc434fb624a1a599cd9fb21e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "4daebebff15d7fb0302b954bc22736f6",
 "icons/Icon-192.png": "4d24f664e9b52c4fc3cf4b62a82bf8ba",
 "icons/Icon-512.png": "e6c2c2034d2223ee4b17e4d05da5c193",
 "index.html": "2e8285eb99afc369c41d60a1cc302008",
 "/": "2e8285eb99afc369c41d60a1cc302008",
-"main.dart.js": "9960bf60fc95fcc117d368b6f3afd80c",
+"main.dart.js": "5c07fef7c409d4093ceed087f3a79fc1",
 "manifest.json": "7af2fee3bcf987f44ff84b827d37d923"
 };
 
